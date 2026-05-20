@@ -1,6 +1,6 @@
-# TestColorPicker
+# Palette Generator
 
-TestColorPicker is an iOS color palette generator built with SwiftUI. The app creates color palettes using common harmony rules, displays color names and HEX values, and lets users quickly copy colors to the clipboard.
+Palette Generator is an iOS color palette generator built with SwiftUI. The app creates color palettes using common harmony rules, displays color names and HEX values, and lets users quickly copy colors to the clipboard.
 
 ## Features
 
